@@ -1,0 +1,74 @@
+
+Fecha y Hora: 2024-09-25 23:43:59
+Usuario: AndyZurita
+Productos:
+BOM BOM BUM x2
+CERVEZA CORONA x4
+LECHE EN CAJA x2
+-----------------------------
+Total: Bs 102.00
+Descuento: Bs 10.20
+Total con Descuento: Bs 91.80
+=============================
+
+Fecha y Hora: 2024-09-25 23:51:01
+Usuario: AndyZurita
+Productos:
+CERVEZA CORONA x2
+COCA-COLA x2
+CHOCOLATE BARRA x2
+GELATINA YELI x2
+RED BULL x2
+AGUA x1
+YOGURT DE COCO x1
+JUGO NATURAL x3
+-----------------------------
+Total: Bs 151.00
+Descuento: Bs 15.10
+Total con Descuento: Bs 135.90
+=============================
+
+Fecha y Hora: 2024-09-25 23:52:24
+Usuario: DerickVargas
+Productos:
+BOM BOM BUM x2
+GALLETAS CON CHIPS x1
+AGUA x2
+GELATINA YELI x1
+JUGO NATURAL x2
+LECHE EN CAJA x1
+RED BULL x1
+CERVEZA CORONA x2
+PAPAFRITA x2
+CHOCOLATE BARRA x2
+-----------------------------
+Total: Bs 145.00
+Descuento: Bs 14.50
+Total con Descuento: Bs 130.50
+=============================
+
+Fecha y Hora: 2024-09-26 00:53:12
+Usuario: AndyZurita
+Productos:
+CERVEZA CORONA x1
+BOM BOM BUM x1
+RED BULL x1
+-----------------------------
+Total: Bs 36.00
+Descuento: Bs 0.00
+Total con Descuento: Bs 36.00
+=============================
+
+Fecha y Hora: 2024-09-26 07:43:34
+Usuario: lalo
+Productos:
+CERVEZA CORONA x3
+LECHE EN CAJA x2
+RED BULL x2
+JUGO NATURAL x2
+-----------------------------
+Total: Bs 130.00
+Descuento: Bs 13.00
+Total con Descuento: Bs 117.00
+=============================
+
