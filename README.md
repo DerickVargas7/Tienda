@@ -1,10 +1,14 @@
 # Tienda
 Interfaz de una tienda online con login e inventario
 Este proyecto es una tienda en línea desarrollada en PHP con una base de datos MySQL. El sistema permite a los usuarios registrarse, iniciar sesión, navegar productos, añadir productos al carrito y realizar compras.
+
 # Contenido del proyecto
 index.php: Página principal que muestra los productos disponibles.
+
 login.php: Página de inicio de sesión para los usuarios registrados.
+
 registro.php: Página de registro de nuevos usuarios.
+
 procesar_compra.php: Lógica para procesar la compra de los productos en el carrito.
 generar_factura.php: Archivo que genera una factura detallada después de realizar una compra.
 historial_compras.php: Página donde los usuarios pueden ver su historial de compras.
