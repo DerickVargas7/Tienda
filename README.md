@@ -53,7 +53,6 @@ Diseño responsivo utilizando CSS.
 
 Servidor web con soporte para PHP (por ejemplo, XAMPP, WAMP).
 
-
 Base de datos MySQL.
 
 Navegador web moderno.
